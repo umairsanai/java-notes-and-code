@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: springbootpractice
+
+auth:
+  passwordSecret: hHnprLaW2E1JBoPf
+  jwtSignSecret: orAusAzY3yLRSoyt
+
+app:
+  developerName: Umair Anwar
+  paymentGateway: jazzcash
+  email:
+    host: 192.168.100.112
+    port: 6969
